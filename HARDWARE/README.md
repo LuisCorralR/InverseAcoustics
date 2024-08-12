@@ -2,7 +2,7 @@
 
 Install instructions for the Jetson Nano:
 1. Connect the X-TAG 
-2. Follow the steps on the [Get Started With Jetson Nano Developer Kit]([https://pages.github.com/](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)).
+2. Follow the steps on the [Get Started With Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit).
 3. Install the RealSense SDK the easy way [Install RealSense Camera in 5 minutes – Jetson Nano](https://jetsonhacks.com/2019/12/22/install-realsense-camera-in-5-minutes-jetson-nano/).
 4. Git Clone recorder file. TODO.
 5. Compile the recorder file:
