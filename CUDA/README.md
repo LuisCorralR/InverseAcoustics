@@ -1,6 +1,6 @@
 # CUDA code
 
-BEM calculations are based in the [OpenBEM](http://openbem.dk/) library [1] modified to run on CUDA cuDoubleComplex arrays. CSVD and TSVD are based on the [Regularization Tools Version 4.1](http://www2.compute.dtu.dk/~pcha/Regutools/) library [2]. It mantains the same formulas but the scripts are modified to run on CUDA cuDoubleComplex arrays.
+BEM calculations are based in the [OpenBEM](http://openbem.dk/) library [1] modified to run on CUDA cuDoubleComplex arrays. CSVD and TSVD are based on the [Regularization Tools Version 4.1](http://www2.compute.dtu.dk/~pcha/Regutools/) library [2]. It maintains the same formulas, but the scripts are modified to run on CUDA cuDoubleComplex arrays.
 
 # References
 
