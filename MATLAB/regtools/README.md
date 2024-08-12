@@ -1,3 +1,11 @@
+# regtools GPU
+
+This files are based on the [Regularization Tools Version 4.1](http://www2.compute.dtu.dk/~pcha/Regutools/) library. It mantains the same formulas but the scripts are modified to run on GPU arrays.
+
+# References
+
+[1] P. C. Hansen, *Regularization Tools Version 4.0 for Matlab 7.3,* Numerical Algorithms, 46 (2007), pp. 189-194. 
+
 # BSD License
 Copyright © 1998, Per Christian Hansen<br/>
 Copyright © 2024, Luis Corral
