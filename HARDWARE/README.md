@@ -26,7 +26,7 @@ sudo ./scripts/check_xmos_devices.sh
 7. Flash de XMOS executable:
 ```
 source SetEnv
-xflash ~/file.xe
+xflash ~/USB_MIC_ARRAY_16_SI5351.xe --boot-partition-size 0x80000
 ```
 
 For the Jetson nano installation:
