@@ -5,7 +5,7 @@ These installation instructions require an Ubuntu 22.04.3 LTS 64-bit computer. A
 ## xCORE-200 explorerKIT firmware
 Start by flashing the firmware on the xCORE-200 explorerKIT board.
 
-1. Download the `HARDWARE` folder to your home `~/` directory.
+1. Download the [HARDWARE](https://github.com/LuisCorralR/InverseAcoustics/tree/main/HARDWARE) folder to your home `~/` directory.
 2. Open a terminal and install OpenJDK 8:
 ```
 sudo apt install openjdk-8-jre
