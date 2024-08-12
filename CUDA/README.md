@@ -1,13 +1,14 @@
 # CUDA code
 
-BEM calculations are based in the [OpenBEM](http://openbem.dk/) library [1] modified to run on CUDA cuDoubleComplex arrays.
+BEM calculations are based in the [OpenBEM](http://openbem.dk/) library [1] modified to run on CUDA cuDoubleComplex arrays. CSVD and TSVD are based on the [Regularization Tools Version 4.1](http://www2.compute.dtu.dk/~pcha/Regutools/) library [2]. It mantains the same formulas but the scripts are modified to run on CUDA cuDoubleComplex arrays.
 
 # References
 
 [1] V. Cutanda Henríquez and P. M. Juhl, *OpenBEM - An open source Boundary Element Method software in Acoustics,* Internoise 2010, 2010.
+[2] P. C. Hansen, *Regularization Tools Version 4.0 for Matlab 7.3,* Numerical Algorithms, 46 (2007), pp. 189-194. 
 
 # BSD License
-
+Copyright © 1998, Per Christian Hansen<br/>
 Copyright © 2020,Vicente Cutanda Henriquez and Peter Møller Juhl<\br>
 Copyright © 2024, Luis Corral
 
