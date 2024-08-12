@@ -1,6 +1,6 @@
 # regtools GPU
 
-This files are based on the [Regularization Tools Version 4.1](http://www2.compute.dtu.dk/~pcha/Regutools/) library. It mantains the same formulas but the scripts are modified to run on GPU arrays.
+This files are based on the [Regularization Tools Version 4.1](http://www2.compute.dtu.dk/~pcha/Regutools/) library [1]. It mantains the same formulas but the scripts are modified to run on GPU arrays.
 
 # References
 
