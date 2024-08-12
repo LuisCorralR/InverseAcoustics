@@ -29,10 +29,10 @@ sudo ./scripts/check_xmos_devices.sh
 ```
 xflash -l
 ```
-8. Flash de XMOS executable file `USB_MIC_ARRAY_16_SI5351.xe`:
+8. Flash de XMOS executable file `dspfirmware.xe`:
 ```
 source SetEnv
-xflash ~/HARDWARE/USB_MIC_ARRAY_16_SI5351.xe --boot-partition-size 0x80000
+xflash ~/HARDWARE/dspfirmware.xe --boot-partition-size 0x80000
 ```
 
 ## Jetson Nano preparation
