@@ -1,8 +1,13 @@
 # Jetson Nano based Microphone Array + Depth Camera
 
-Install instructions for the Jetson Nano:
-1. Install xTimeComposer.
-2. Connect the X-TAG and flash de XMOS executable:
+This install instructions includes commands run from a Ubuntu 22.04.3 LTS computer.
+
+1. Download [xTimeComposer](https://www.xmos.com/file/xtimecomposer-community_14-linux64-installer?version=all) to your home `~/` directory.
+2. Untar the file:
+```
+
+```
+4. Connect the X-TAG and flash de XMOS executable:
 ```
 xflash file.xe
 ```
