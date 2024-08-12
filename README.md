@@ -3,7 +3,7 @@ A compilation of sofware and hardware for acoustic imaging based on inverse meth
 
 # Licences
 
-Software is provided under the [BSD Licence](https://opensource.org/license?ls=BSD) Hardware is provided under the [Open Source Hardware (OSHW) Definition 1.0](https://www.oshwa.org/definition/).
+Software is provided under the [BSD Licence](https://opensource.org/license?ls=BSD) Hardware is provided under the [CERN Open Hardware Licence Version 2 – Strongly Reciprocal](https://ohwr.org/project/cernohl/-/wikis/Documents/CERN-OHL-version-2) licence.
 
 # References
 [1] Corral, L., \& Román, P. E. (2021). *Computation analysis of regularization methods and parameter selection for acoustics radiation modes source reconstruction of vibrating plates.* INTER-NOISE and NOISE-CON Congress and Conference Proceedings, InterNoise21, Washington, D.C., USA, pages 3944-4918, pp. 4295-4302(8). https://doi.org/10.3397/in-2021-2655.
