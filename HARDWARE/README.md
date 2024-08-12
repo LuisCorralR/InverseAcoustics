@@ -46,7 +46,7 @@ scp ~/HARDWARE/recorder.cpp nanouser@nanoipaddress:~/
 ```
 3. Connect to the jetson nano via SSH (a nice tutorial is provided [here](https://www.digikey.com/en/maker/projects/getting-started-with-the-nvidia-jetson-nano-part-1-setup/2f497bb88c6f4688b9774a81b80b8ec2)).
 ```
-ssh nanouser@nanoipadress
+ssh nanouser@nanoipaddress
 ```
 4. Once connected, install the RealSense SDK the easy way [Install RealSense Camera in 5 minutes – Jetson Nano](https://jetsonhacks.com/2019/12/22/install-realsense-camera-in-5-minutes-jetson-nano/).
 5. Compile the recorder file with the nvcc CUDA compiler (g++ will work too):
@@ -58,4 +58,9 @@ ssh nanouser@nanoipadress
 ./recorder
 ```
 7. An audio file `mic_array_audio.wav` and a point cloud file `realsense_pointcloud.ply` will be in the home directory.
+8. Back to your computer termina, copy the files back with scp:
+```
+scp nanouser@nanoipaddress:~/mic_array_audio.wav ~/
+scp nanouser@nanoipaddress:~/realsense_pointcloud.ply ~/
+```
 8. A MATLAB post-procesing audio and point cloud files `post-processing.m` is included to obtain results.
