@@ -1,6 +1,9 @@
 # Jetson Nano based Microphone Array + Depth Camera
 
-This install instructions requieres a Ubuntu 22.04.3 LTS 64 bit computer. Although, all software used is fully compatible with Windows and macOS. Start by flashing the firmware on the xCORE-200 explorerKIT board.
+This install instructions requieres a Ubuntu 22.04.3 LTS 64 bit computer. Although, all software used is fully compatible with Windows and macOS. 
+
+## xCORE-200 explorerKIT firmware
+Start by flashing the firmware on the xCORE-200 explorerKIT board.
 
 1. Download the `HARDWARE` folder to your home `~/` directory.
 2. Open a terminal and install OpenJDK 8:
@@ -32,7 +35,9 @@ source SetEnv
 xflash ~/HARDWARE/USB_MIC_ARRAY_16_SI5351.xe --boot-partition-size 0x80000
 ```
 
-For the Jetson nano installation:
+## Jetson Nano preparation
+
+For the Jetson Nano installation:
 
 1. Follow the steps on the [Get Started With Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit) to write the SD card and boot the first time. Make sure the device has a IP adress in the same range as your computer (a simple home router will work).
 2. Copy the recorder file to the jetson nano home `~/` folder:
