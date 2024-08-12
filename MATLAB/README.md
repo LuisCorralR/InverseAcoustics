@@ -1,5 +1,14 @@
+# MATLAB code
+
+BEM calculations are based in the [OpenBEM](http://openbem.dk/) library [1] modified to run on GPU arrays.
+
+# References
+
+[1] V. Cutanda Henríquez and P. M. Juhl, *OpenBEM - An open source Boundary Element Method software in Acoustics,* Internoise 2010, 2010.
+
 # BSD License
 
+Copyright © 2020,Vicente Cutanda Henriquez and Peter Møller Juhl<\br>
 Copyright © 2024, Luis Corral
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
