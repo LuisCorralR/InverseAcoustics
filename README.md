@@ -11,4 +11,6 @@ The software is provided under the [BSD Licence](https://opensource.org/license?
 
 [2] Corral, L., \& Román, P. E. (2023). *Vectorized Matrix Formulation for Sound Power Determination Through Inverse Problems and Regularization Techniques.* Journal of Theoretical and Computational Acoustics (Vol. 31, Issue 03). https://doi.org/10.1142/s2591728523500111.
 
-[3] Corral, L., \& Román, P. E. (2024). *A GPU-based framework for solving the acoustic exterior inverse problem.* Proceedings of the 30th International Congress on Sound and Vibration (ICSV30).
+[3] Corral, L., \& Román, P. E. (2024). *A GPU-based framework for solving the acoustic exterior inverse problem.* Proceedings of the 30th International Congress on Sound and Vibration (ICSV30). [[Available Online](https://github.com/user/repo/blob/branch/other_file.md)].
+
+[2] Corral, L., \& Román, P. E. (2025). *Design of a low-cost microphone array for portable multi-platform applications.* HardwareX (Volume 24, e00710). https://doi.org/10.1016/j.ohx.2025.e00710.
