@@ -13,4 +13,4 @@ The software is provided under the [BSD Licence](https://opensource.org/license?
 
 [3] Corral, L., \& Román, P. E. (2024). *A GPU-based framework for solving the acoustic exterior inverse problem.* Proceedings of the 30th International Congress on Sound and Vibration (ICSV30). [[Available Online](https://github.com/user/repo/blob/branch/other_file.md)].
 
-[2] Corral, L., \& Román, P. E. (2025). *Design of a low-cost microphone array for portable multi-platform applications.* HardwareX (Volume 24, e00710). https://doi.org/10.1016/j.ohx.2025.e00710.
+[4] Corral, L., \& Román, P. E. (2025). *Design of a low-cost microphone array for portable multi-platform applications.* HardwareX (Volume 24, e00710). https://doi.org/10.1016/j.ohx.2025.e00710.
